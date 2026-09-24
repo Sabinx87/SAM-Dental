@@ -1,0 +1,5 @@
+
+dentex_train/
+sam-dental/checkpoints*/
+sam-dental/fullft_checkpoints*/
+sam-dental/unet_checkpoints*/

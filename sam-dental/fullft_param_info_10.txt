@@ -1,0 +1,5 @@
+method: full_finetuning
+fewshot_size: 10
+total_params: 93735728
+trainable_params: 93735728
+trainable_percent: 100.0000
